@@ -1,6 +1,7 @@
 ## Hey 👋, This is Jessica Cunningham
 [![Gmail Badge](https://img.shields.io/badge/-jordway85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jordway85@gmail.com)](mailto:jordway85@gmail.com) 
- [https://www.linkedin.com/in/jessica-l-cunningham/](https://www.linkedin.com/in/jessica-l-cunningham/) [![Github Badge](https://img.shields.io/badge/-Jord2285-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jord2285/)](https://www.github.com/Jord2285/) <p align='left'>Hi! I am Jessica a professional business intelligence analyist. My skills include data analysis, data visualizations, story telling, SQL, excel and google sheets. I am eager to leverage my data and visualization skills.
+ [https://www.linkedin.com/in/jessica-l-cunningham/](https://www.linkedin.com/in/jessica-l-cunningham/) [![Github Badge](https://img.shields.io/badge/-Jord2285-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jord2285/)](https://www.github.com/Jord2285/) <p align='left'>Hi! I am Jessica! 
+Driving business growth through data-driven decisions. As a Business Intelligence Analyst, I excel at uncovering stories in data, delivering actionable insights, and streamlining reporting.
 
 
 My background includes a Bachlor's of Science degree from Portland State and certificate from TripleTen, further developing my skills within data anaylsis and the latest advances. </p>
