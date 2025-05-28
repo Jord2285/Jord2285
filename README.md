@@ -1,6 +1,6 @@
 ## Hey 👋, This is Jessica Cunningham
 [![Gmail Badge](https://img.shields.io/badge/-jordway85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jordway85@gmail.com)](mailto:jordway85@gmail.com) 
- [https://www.linkedin.com/in/jessica-l-cunningham/](https://www.linkedin.com/in/jessica-l-cunningham/) [![Github Badge](https://img.shields.io/badge/-Jord2285-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jord2285/)](https://www.github.com/Jord2285/) <p align='left'>Hi! I am Jessica! 
+ [https://www.linkedin.com/in/jessica-l-cunningham/](https://www.linkedin.com/in/jessica-l-cunningham/) [![Github Badge](https://img.shields.io/badge/-Jord2285-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jord2285/)](https://www.github.com/Jord2285/) <p align='left'>
 Driving business growth through data-driven decisions. As a Business Intelligence Analyst, I excel at uncovering stories in data, delivering actionable insights, and streamlining reporting.
 
 
